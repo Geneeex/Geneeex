@@ -1,4 +1,4 @@
-## 👋 Sabik Bin Sultan
+## 👋 Hi!
 
 Research, scientific computing, and engineering projects.
 
